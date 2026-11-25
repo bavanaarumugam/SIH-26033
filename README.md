@@ -59,19 +59,8 @@ Innovation and Uniqueness of the Solution
 5. Quality Check & Instant Settlement: Upon delivery confirmation via QR/OTP scan at the buyer's hub, automated escrow releases funds directly to the farmer's bank account via UPI.
 
 Workflow Architecture
-[Farmer / FPO App] ---> (Lists Harvest + Quality Grade)
-        |
-        v
-[AI Core Engine] -----> (Demand Forecasting + Fair Price Recommendation)
-        |
-        v
-[Buyer Portal] -------> (Consumers & Bulk Buyers Place Orders)
-        |
-        v
-[Logistics & VRP] ----> (FPO Load Pooling + Route Optimization)
-        |
-        v
-[Delivery & Escrow] --> (QR Verification + Instant UPI Payout to Farmer)
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/1fa7b1ad-eb61-4b72-912c-ac563530311c" />
+
 
 ## Feasibility and Viability
 1. Analysis of the Feasibility of the Idea
